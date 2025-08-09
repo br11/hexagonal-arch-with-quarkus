@@ -1,5 +1,7 @@
 # hexagonal-arch-with-quarkus 
-This project is derived from [code-with-quarkus](https://github.com/quarkusio/quarkus-quickstarts/tree/main/code-with-quarkus)
+This project is based on [code-with-quarkus](https://code.quarkus.io)
+
+See also [quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts/tree/main)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
   
